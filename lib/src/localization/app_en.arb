@@ -1,0 +1,6 @@
+{
+  "appTitle": "helios_project",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
