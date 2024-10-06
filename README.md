@@ -1,6 +1,8 @@
 # helios_project
 
-A new Flutter project .
+Git clone the project.
+Run 'flutter pub get'.
+Then run 'flutter run' on your prefered environment.
 
 ## Getting Started
 
